@@ -25,8 +25,16 @@ module.exports = function(environment) {
     },
 
     torii: {
-      // a 'session' property will be injected on routes and controllers
-      sessionServiceName: 'session'
+      sessionServiceName: 'session',
+      providers: {
+        'firebase-simple-auth': {
+        }
+      }
+    },
+
+    'ember-simple-auth': {
+      authenticationRoute: 'sessions',
+      routeAfterAuthentication: 'posts'
     },
 
     EmberENV: {

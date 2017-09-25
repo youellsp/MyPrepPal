@@ -2,18 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e90ffbea-7878-4af3-a69c-b60490a0b8ed" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/routes/clients/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/routes/clients/new.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/torii-adapters/application.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MyPrepPal.iml" afterPath="$PROJECT_DIR$/MyPrepPal.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/index.js" afterPath="$PROJECT_DIR$/app/controllers/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/router.js" afterPath="$PROJECT_DIR$/app/router.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/app.scss" afterPath="$PROJECT_DIR$/app/styles/app.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/about.hbs" afterPath="$PROJECT_DIR$/app/templates/about.hbs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/index.hbs" afterPath="$PROJECT_DIR$/app/templates/index.hbs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/templates/navbar.hbs" afterPath="$PROJECT_DIR$/app/templates/navbar.hbs" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/environment.js" afterPath="$PROJECT_DIR$/config/environment.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package-lock.json" afterPath="$PROJECT_DIR$/package-lock.json" />
@@ -38,19 +29,11 @@
       <file leaf-file-name="application.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/routes/application.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/dist/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="420">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="120">
+              <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+              <folding>
+                <element signature="e#0#26#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,39 +41,41 @@
       <file leaf-file-name="dashboard.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/routes/dashboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
+            <state relative-caret-position="225">
+              <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="application.hbs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
+      <file leaf-file-name="navbar.hbs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/templates/navbar.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="345">
+              <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="clients.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="clients.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/routes/clients.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="60">
+              <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="clients.hbs" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/templates/clients.hbs">
+      <file leaf-file-name="client.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/models/client.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#28#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -109,27 +94,37 @@
         <entry file="file://$PROJECT_DIR$/app/templates/dashboard.hbs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="240">
-              <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+              <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.hbs" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.hbs" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/templates/index.hbs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+            <state relative-caret-position="165">
+              <caret line="11" column="77" lean-forward="true" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/routes/contact.js">
+      <file leaf-file-name="dashboard.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/dashboard.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="285">
+              <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/index.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -140,6 +135,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>form-signin</find>
+      <find>admin.clients</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -160,25 +156,26 @@
         <option value="$PROJECT_DIR$/app/models/invitation.js" />
         <option value="$PROJECT_DIR$/app/templates/clients.hbs" />
         <option value="$PROJECT_DIR$/app/templates/clients/index.hbs" />
-        <option value="$PROJECT_DIR$/app/models/client.js" />
         <option value="$PROJECT_DIR$/app/routes/clients/index.js" />
         <option value="$PROJECT_DIR$/app/routes/clients/new.js" />
         <option value="$PROJECT_DIR$/app/templates/clients/new.hbs" />
-        <option value="$PROJECT_DIR$/config/environment.js" />
-        <option value="$PROJECT_DIR$/app/controllers/index.js" />
         <option value="$PROJECT_DIR$/app/templates/application.hbs" />
         <option value="$PROJECT_DIR$/tmp/broccoli_merge_trees-output_path-8Vo2LEWe.tmp/my-prep-pal/templates/navbar.js" />
         <option value="$PROJECT_DIR$/app/controllers/navbar.js" />
         <option value="$PROJECT_DIR$/app/router.js" />
         <option value="$PROJECT_DIR$/app/models/user.js" />
-        <option value="$PROJECT_DIR$/app/routes/dashboard.js" />
-        <option value="$PROJECT_DIR$/app/templates/navbar.hbs" />
         <option value="$PROJECT_DIR$/app/torii-adapters/application.js" />
         <option value="$PROJECT_DIR$/app/adapters/application.js" />
         <option value="$PROJECT_DIR$/firebase.json" />
-        <option value="$PROJECT_DIR$/app/routes/application.js" />
-        <option value="$PROJECT_DIR$/app/templates/dashboard.hbs" />
         <option value="$PROJECT_DIR$/app/styles/app.scss" />
+        <option value="$PROJECT_DIR$/config/environment.js" />
+        <option value="$PROJECT_DIR$/app/routes/application.js" />
+        <option value="$PROJECT_DIR$/app/controllers/index.js" />
+        <option value="$PROJECT_DIR$/app/models/client.js" />
+        <option value="$PROJECT_DIR$/app/routes/dashboard.js" />
+        <option value="$PROJECT_DIR$/app/templates/navbar.hbs" />
+        <option value="$PROJECT_DIR$/app/controllers/dashboard.js" />
+        <option value="$PROJECT_DIR$/app/templates/dashboard.hbs" />
       </list>
     </option>
   </component>
@@ -190,15 +187,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="NodeModulesDirectoryManager">
-    <handled-path value="$PROJECT_DIR$/node_modules" />
-    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-2iMg3hiq.tmp/node_modules" />
-    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-9iawowS6.tmp/node_modules" />
-    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-Jzo0JQjc.tmp/node_modules" />
-    <handled-path value="$PROJECT_DIR$/tmp/rollup-cache_path-yugBHddu.tmp/node_modules" />
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="69" />
+    <option name="y" value="37" />
     <option name="width" value="1680" />
     <option name="height" value="977" />
   </component>
@@ -369,7 +360,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path" value="/usr/local/bin/node" />
-    <property name="SearchEverywhereHistoryKey" value="das&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/templates/dashboard.hbs&#10;app&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/routes/application.js&#10;package.&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/package.json&#10;fireb&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/firebase.json&#10;fir&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/firebase.json&#10;firebase.&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/node_modules/emberfire/addon/adapters/firebase.js&#10;router&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/router.js&#10;navbar.js&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/tmp/broccoli_merge_trees-output_path-8Vo2LEWe.tmp/my-prep-pal/templates/navbar.js&#10;index&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/templates/index.hbs&#10;appl&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/adapters/application.js&#10;nav&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/templates/navbar.hbs&#10;envi&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/config/environment.js&#10;about&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/templates/about.hbs&#10;favico&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/tmp/rollup-cache_path-Jzo0JQjc.tmp/node_modules/broccoli-sri-hash/test/fixtures/input/favicon.png&#10;my-prep&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/dist/assets/my-prep-pal.css&#10;vendor.js&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/tmp/broccoli_merge_trees-output_path-8A9dUFfY.tmp/assets/vendor.js&#10;index.js&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/controllers/index.js&#10;navbar&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/templates/navbar.hbs&#10;application.hbs&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/templates/application.hbs&#10;environments.&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/tmp/rollup-cache_path-yugBHddu.tmp/node_modules/eslint/lib/config/environments.js" />
+    <property name="SearchEverywhereHistoryKey" value="clien&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/models/client.js&#10;dash&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/controllers/dashboard.js&#10;login&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/node_modules/ember-simple-auth/fastboot-tests/fixtures/fastboot-ready-app/app/templates/login.hbs&#10;das&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/templates/dashboard.hbs&#10;app&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/routes/application.js&#10;package.&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/package.json&#10;fireb&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/firebase.json&#10;fir&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/firebase.json&#10;firebase.&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/node_modules/emberfire/addon/adapters/firebase.js&#10;router&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/router.js&#10;navbar.js&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/tmp/broccoli_merge_trees-output_path-8Vo2LEWe.tmp/my-prep-pal/templates/navbar.js&#10;index&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/templates/index.hbs&#10;appl&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/adapters/application.js&#10;nav&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/templates/navbar.hbs&#10;envi&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/config/environment.js&#10;about&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/templates/about.hbs&#10;favico&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/tmp/rollup-cache_path-Jzo0JQjc.tmp/node_modules/broccoli-sri-hash/test/fixtures/input/favicon.png&#10;my-prep&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/dist/assets/my-prep-pal.css&#10;vendor.js&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/tmp/broccoli_merge_trees-output_path-8A9dUFfY.tmp/assets/vendor.js&#10;index.js&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/controllers/index.js&#10;navbar&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/templates/navbar.hbs&#10;application.hbs&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/app/templates/application.hbs&#10;environments.&#9;FILE&#9;file:///Users/patrickyouells/Development/Personal Workspace/MyPrepPal/tmp/rollup-cache_path-yugBHddu.tmp/node_modules/eslint/lib/config/environments.js" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RecentsManager">
@@ -824,7 +815,7 @@
       <workItem from="1506100508803" duration="278000" />
       <workItem from="1506100803767" duration="101000" />
       <workItem from="1506100937272" duration="7430000" />
-      <workItem from="1506348069708" duration="11000" />
+      <workItem from="1506348069708" duration="2599000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit from Ember CLI v2.15.1&#10;&#10;                                                        _...,&#10;                                                     ,:^;,...;&#10;              -+===;.         ,,--++====++-,,,     .:  /.....,&#10;            :::::~+++++#:,+#++++++++++++++++++#*..:   /,......&#10;           (,,,,,,::=+++##++++++++++++++++++++++#.   :....../&#10;            ...,,,,,::++++++++++++++++++++++++++++++*..,...:&#10;            *..+...,#@@@@@@@@@++++++++++++++++++++++#*....*&#10;              @#,;##############@@@+*+#@@@@@@@@@@#*++#..&lt;&#10;              *@##@@+,-*^^^*-+@####@@@######@@@#####@@,,,+&#10;                @#@*            @#@@@@#@@+--*^^*--#@@@@@@#&#10;                @#@.    @#      @##+++@#,           .@@#@@&#10;                 #@#    @@     +@@++++#@@     @@     :@@&#10;                 :@#*         @#@++++++@#*    #@     @@+&#10;                :*+@@#;,.__.+@#@+,-^^.++@#          @@++&#10;               ;*  :*@@@##@@@@;++r._j^.+@##@+,.__,,@@++.&#10;              /*    ........+++++++++++++#@@@@@###@@#++++,&#10;            ,:       ...,@@@#++===----==@@@####,,....+++++&#10;           .:       ......@@##@\   ;   :@####@,,...... +++.&#10;           ;       .........@###,   ;  ;xx#@;,,.....   *;+,&#10;           |       ........,*;xxxx--^--=xxx,........   :+#;&#10;           ;         ......,,;xxxxxxxxxxxxx;,.....     *+#&#10;            ;          ......,::xxxx;.     ......       +.   .&#10;             *;            .........  +###  ....       / ,. /:| ,.&#10;               .+:             ...  ;##++##, .      ,#. (..v..;*./&#10;                  **                ##  ###*    .:*&amp;&amp;&amp;+. \.,....&lt;,&#10;                   #&amp;+**==-..,,__  ;##  ###  :,*+&amp;&amp;&amp;&amp;&amp;&amp;&amp;v+#&amp;,,.._/&#10;                  #&amp;&amp;&amp;&amp;*...,::,,.  ##; ,##* .*****;:&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&#10;                 ,+*+;~*..*** *.* ### ###* *******    *+#&amp;;*&#10;                                  ##,;##    ****    :,  **&#10;         #####    ##   ###  ###,  ########       .#####   ;##  ##&#10;        #######  ;##  #### ,###.  ##########    ########  ### ####&#10;       ###  ###  ### ##########   ####  ####   ,##   ###  #######*&#10;      ### ,###  ##############:   ##     ###  #### ,##   :#### ###  ##;&#10;  ##########    ########### ##   .##    ,###  #######    ##### :######&#10;    ######    .###### ####  ##   ###    ### ######*    :#####   ####&#10;       #############  ####  ################    ######## ###&#10;        #####*  *#*    #:   :###   *###*         *####    #*">
       <created>1505869809567</created>
@@ -840,14 +831,21 @@
       <option name="project" value="LOCAL" />
       <updated>1505920519629</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="added firebase connectivity">
+      <created>1506348124736</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1506348124736</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37934000" />
+    <option name="totallyTimeSpent" value="40522000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="977" extended-state="6" />
+    <frame x="69" y="37" width="1680" height="977" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -864,6 +862,7 @@
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1904762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -878,7 +877,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -906,8 +904,8 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="true" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1723356" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1904762" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32993197" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -922,7 +920,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit from Ember CLI v2.15.1&#10;&#10;                                                        _...,&#10;                                                     ,:^;,...;&#10;              -+===;.         ,,--++====++-,,,     .:  /.....,&#10;            :::::~+++++#:,+#++++++++++++++++++#*..:   /,......&#10;           (,,,,,,::=+++##++++++++++++++++++++++#.   :....../&#10;            ...,,,,,::++++++++++++++++++++++++++++++*..,...:&#10;            *..+...,#@@@@@@@@@++++++++++++++++++++++#*....*&#10;              @#,;##############@@@+*+#@@@@@@@@@@#*++#..&lt;&#10;              *@##@@+,-*^^^*-+@####@@@######@@@#####@@,,,+&#10;                @#@*            @#@@@@#@@+--*^^*--#@@@@@@#&#10;                @#@.    @#      @##+++@#,           .@@#@@&#10;                 #@#    @@     +@@++++#@@     @@     :@@&#10;                 :@#*         @#@++++++@#*    #@     @@+&#10;                :*+@@#;,.__.+@#@+,-^^.++@#          @@++&#10;               ;*  :*@@@##@@@@;++r._j^.+@##@+,.__,,@@++.&#10;              /*    ........+++++++++++++#@@@@@###@@#++++,&#10;            ,:       ...,@@@#++===----==@@@####,,....+++++&#10;           .:       ......@@##@\   ;   :@####@,,...... +++.&#10;           ;       .........@###,   ;  ;xx#@;,,.....   *;+,&#10;           |       ........,*;xxxx--^--=xxx,........   :+#;&#10;           ;         ......,,;xxxxxxxxxxxxx;,.....     *+#&#10;            ;          ......,::xxxx;.     ......       +.   .&#10;             *;            .........  +###  ....       / ,. /:| ,.&#10;               .+:             ...  ;##++##, .      ,#. (..v..;*./&#10;                  **                ##  ###*    .:*&amp;&amp;&amp;+. \.,....&lt;,&#10;                   #&amp;+**==-..,,__  ;##  ###  :,*+&amp;&amp;&amp;&amp;&amp;&amp;&amp;v+#&amp;,,.._/&#10;                  #&amp;&amp;&amp;&amp;*...,::,,.  ##; ,##* .*****;:&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&amp;&#10;                 ,+*+;~*..*** *.* ### ###* *******    *+#&amp;;*&#10;                                  ##,;##    ****    :,  **&#10;         #####    ##   ###  ###,  ########       .#####   ;##  ##&#10;        #######  ;##  #### ,###.  ##########    ########  ### ####&#10;       ###  ###  ### ##########   ####  ####   ,##   ###  #######*&#10;      ### ,###  ##############:   ##     ###  #### ,##   :#### ###  ##;&#10;  ##########    ########### ##   .##    ,###  #######    ##### :######&#10;    ######    .###### ####  ##   ###    ### ######*    :#####   ####&#10;       #############  ####  ################    ######## ###&#10;        #####*  *#*    #:   :###   *###*         *####    #*" />
     <MESSAGE value="added functionality to index template/controller" />
-    <option name="LAST_COMMIT_MESSAGE" value="added functionality to index template/controller" />
+    <MESSAGE value="added firebase connectivity" />
+    <option name="LAST_COMMIT_MESSAGE" value="added firebase connectivity" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -933,25 +932,11 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/templates/clients.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="10" lean-forward="true" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/clients/index.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/clients/new.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="6" lean-forward="true" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -959,6 +944,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -966,6 +952,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
           <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -980,6 +967,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -987,6 +975,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -994,6 +983,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1033,6 +1023,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="30" column="6" lean-forward="false" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1058,24 +1049,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/models/client.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/clients/index.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/navbar.hbs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="34" lean-forward="false" selection-start-line="33" selection-start-column="34" selection-end-line="33" selection-end-column="34" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1097,6 +1075,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
           <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1104,6 +1083,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="390">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1111,6 +1091,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1118,6 +1099,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1128,17 +1112,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/index.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="19" lean-forward="false" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/about.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1146,6 +1124,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="69" lean-forward="false" selection-start-line="1" selection-start-column="69" selection-end-line="1" selection-end-column="69" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1153,6 +1132,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1185,17 +1165,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/config/environment.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="26" lean-forward="false" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/styles/app.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1214,39 +1188,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes/dashboard.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes/clients.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/routes/contact.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/routes/application.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1262,6 +1204,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/application.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/node_modules/ember-simple-auth/fastboot-tests/fixtures/fastboot-ready-app/app/templates/login.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="14" lean-forward="false" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/environment.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="31" column="7" lean-forward="false" selection-start-line="31" selection-start-column="7" selection-end-line="31" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/contact.hbs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1270,18 +1244,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/templates/dashboard.hbs">
+    <entry file="file://$PROJECT_DIR$/app/models/client.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="11" lean-forward="false" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-          <folding />
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/templates/index.hbs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="9" lean-forward="false" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="165">
+          <caret line="11" column="77" lean-forward="true" selection-start-line="11" selection-start-column="77" selection-end-line="11" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="3" lean-forward="true" selection-start-line="19" selection-start-column="3" selection-end-line="19" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/dashboard.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="6" lean-forward="true" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/application.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="2" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="8" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/navbar.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="6" lean-forward="true" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/templates/dashboard.hbs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="7" lean-forward="true" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/routes/clients.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding />
         </state>
       </provider>
