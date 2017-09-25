@@ -7,6 +7,28 @@ module.exports = function(environment) {
     environment,
     rootURL: '/',
     locationType: 'auto',
+
+    firebase: {
+      apiKey: "AIzaSyANegPcWA27rAC6SHt78vn6vPpBJTDAGtQ",
+      authDomain: "my-prep-pal.firebaseapp.com",
+      databaseURL: "https://my-prep-pal.firebaseio.com",
+      projectId: "my-prep-pal",
+      storageBucket: "my-prep-pal.appspot.com",
+      messagingSenderId: "560065636413"
+    },
+
+    // if using ember-cli-content-security-policy
+    contentSecurityPolicy: {
+      'script-src': "'self' 'unsafe-eval' apis.google.com",
+      'frame-src': "'self' https://*.firebaseapp.com",
+      'connect-src': "'self' wss://*.firebaseio.com https://*.googleapis.com"
+    },
+
+    torii: {
+      // a 'session' property will be injected on routes and controllers
+      sessionServiceName: 'session'
+    },
+
     EmberENV: {
       FEATURES: {
         // Here you can enable experimental features on an ember canary build

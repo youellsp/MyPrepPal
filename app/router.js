@@ -9,6 +9,11 @@ const Router = Ember.Router.extend({
 Router.map(function() {
   this.route('about');
   this.route('contact');
+  this.route('clients', function() {
+    this.route('new');
+  });
+  this.route('admin/clients');
+  this.route('dashboard');
 });
 
 export default Router;
