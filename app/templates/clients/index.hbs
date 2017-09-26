@@ -1,0 +1,13 @@
+<h2>All Clients</h2>
+
+{{#each model as |client|}}
+  <div class="panel panel-default">
+    <div class="panel-heading">
+      <h3 class="panel-title">{{client.fullName}}</h3>
+    </div>
+    <div class="panel-body">
+      <p>Address: {{client.address}}</p>
+      <p>Phone: {{client.phone}}</p>
+    </div>
+  </div>
+{{/each}}
